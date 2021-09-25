@@ -18,6 +18,7 @@ $ git clone https://github.com/KITRI-BoBai/broken-link-checker
 
 3. 필요한 npm 라이브러리 불러오기
 ```sh
+$ cd broken-link-checker
 $ npm install broken-link-checker -g
 ```
 
